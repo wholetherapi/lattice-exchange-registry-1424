@@ -1,0 +1,59 @@
+QUILLSTACK MODEL LICENSE AGREEMENT
+Version 3.1 - Oxley-A3-Lite
+
+1. Grant of Rights
+
+Subject to the terms of this Agreement, Quillstack grants you a non-exclusive,
+worldwide, royalty-free right to access, download, reproduce, execute and
+distribute the Model, including its weights and configuration files, for
+research and commercial purposes.
+
+2. Permitted Uses
+
+Commercial use is supported. You may incorporate the Model into products and
+services, including hosted inference, fine-tuning and evaluation pipelines,
+provided that you comply with the use restrictions in Section 4.
+
+3. Outputs
+
+The Model is a generative system. As between the parties, you retain
+responsibility for the outputs you generate. The licensor does not assert any
+ownership, copyright or other right in the outputs produced with the Model,
+and no license or other right in such outputs is granted, assigned or implied
+under this Agreement. Recipients of outputs receive no license from the
+licensor with respect to them.
+
+4. Use Restrictions
+
+You may not use the Model to violate applicable law, to knowingly generate
+material that infringes third-party rights, or to provide medical, legal or
+financial advice without appropriate human oversight. You may not remove
+notices from the Model files.
+
+5. Training Materials
+
+The data and other materials used to train the Model are not licensed under
+this Agreement. Any use of such data or materials remains governed by the
+terms and notices applicable to their respective sources, and this Agreement
+grants no rights with respect to them.
+
+6. Termination
+
+This Agreement terminates automatically if you materially breach its terms.
+Sections 3, 5, 8 and 9 survive termination.
+
+7. Disclaimer
+
+THE MODEL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+8. Limitation of Liability
+
+In no event shall the licensor be liable for any claim, damages or other
+liability arising from the use of the Model.
+
+9. Miscellaneous
+
+This Agreement is the entire agreement between the parties regarding the Model
+and supersedes any prior discussions on that subject.
